@@ -1,0 +1,3 @@
+rootProject.name = 'wechatRN'
+
+include ':app'
